@@ -58,6 +58,6 @@ Region-wise sales breakdown.
 
 . Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-game-sales-analysis.git
+   git clone https://github.com/MuhannadAZ/video-game-sales-analysis.git
    pip install pandas matplotlib seaborn
    jupyter notebook
